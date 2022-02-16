@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains the information regarding Grading Rubric.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-711-advanced-spanish-conversation-and-composition-spring-2014/deb9c86b327940096d6aa08500f76d09_MIT21G_711S14_Grad_Rub.pdf
+file: /media/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/deb9c86b327940096d6aa08500f76d09_MIT21G_711S14_Grad_Rub.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: Grading Rubric
 uid: deb9c86b-3279-4009-6d6a-a08500f76d09

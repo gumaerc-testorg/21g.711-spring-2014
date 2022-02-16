@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains the information regarding Rubric for oral presentations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-711-advanced-spanish-conversation-and-composition-spring-2014/df2d33fcb7a0e40b56ba63923d2c668f_MIT21G_711S14_Oral_pres.pdf
+file: /media/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/df2d33fcb7a0e40b56ba63923d2c668f_MIT21G_711S14_Oral_pres.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: Rubric for oral presentations
 uid: df2d33fc-b7a0-e40b-56ba-63923d2c668f

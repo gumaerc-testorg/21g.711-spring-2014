@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the information regarding Compostion 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-711-advanced-spanish-conversation-and-composition-spring-2014/4a54c42db7e8417962fdd1c6b62103cb_MIT21G_711S14_Comp3.pdf
+file: /media/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/4a54c42db7e8417962fdd1c6b62103cb_MIT21G_711S14_Comp3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Advanced Spanish Conversation and Composition: Compostion 3'
 uid: 4a54c42d-b7e8-4179-62fd-d1c6b62103cb
