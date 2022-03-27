@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: e1b30583-a401-357e-7b01-3eb537dd81b0
 resourcetype: Document
 title: Rubric for oral presentations
 uid: df2d33fc-b7a0-e40b-56ba-63923d2c668f

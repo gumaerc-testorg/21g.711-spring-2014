@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8819392-28e0-b281-0006-575af3b4858f
 resourcetype: Document
 title: 'Advanced Spanish Conversation and Composition: Composition 2'
 uid: 630f86fa-9592-9512-1152-9b5d32a22ea2

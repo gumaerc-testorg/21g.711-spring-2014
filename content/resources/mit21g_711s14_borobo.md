@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8819392-28e0-b281-0006-575af3b4858f
 resourcetype: Document
 title: 'Advanced Spanish Conversation and Composition: Boroboroo Subjunctive Exercise'
 uid: 4e793c6a-0594-4d6a-8198-fb19d6e50a62

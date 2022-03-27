@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8819392-28e0-b281-0006-575af3b4858f
 resourcetype: Document
 title: 'Advanced Spanish Conversation and Composition: Preterite or Imperfect'
 uid: 0d5c59f5-f4e0-dd25-10a7-d6160973db27

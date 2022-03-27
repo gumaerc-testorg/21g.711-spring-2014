@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 8e00aa94-eedb-d76f-77e0-788ab842e17c
 resourcetype: Document
 title: "La campa\xF1a por la madre tierra"
 uid: ce57bbf5-8879-2995-1bd6-e244b43c28f1

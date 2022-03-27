@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: e1b30583-a401-357e-7b01-3eb537dd81b0
 resourcetype: Document
 title: Rubric for evaluating compositions
 uid: 6b1b0983-3e4d-7610-064f-1ec22e536674

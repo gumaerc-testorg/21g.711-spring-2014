@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: e1b30583-a401-357e-7b01-3eb537dd81b0
 resourcetype: Document
 title: Key for the correction of written work
 uid: 773fb1e5-329a-00c9-9650-a8e882a3afb7
