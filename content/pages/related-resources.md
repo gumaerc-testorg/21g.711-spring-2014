@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to magazines on science and technology, podcasts,
+  and webcasts in Spanish.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
