@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and activities.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8e00aa94-eedb-d76f-77e0-788ab842e17c
 ---
@@ -181,7 +184,7 @@ Panel y debate sobre los alimentos transgénicos. Entregar tema sobre el proyect
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Actividad: {{< anchor "Madre_Tierra" >}}{{< /anchor >}}[La campaña por la madre tierra (PDF)]({{< baseurl >}}/resources/mit21g_711s14_madre)
+Actividad: {{< anchor "Madre_Tierra" >}}{{< /anchor >}}{{% resource_link ce57bbf5-8879-2995-1bd6-e244b43c28f1 "La campaña por la madre tierra (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
