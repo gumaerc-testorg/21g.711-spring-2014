@@ -5,6 +5,7 @@ file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Advanced Spanish Conversation and Composition: Preterite or Imperfect'
 uid: 0d5c59f5-f4e0-dd25-10a7-d6160973db27
 ---
 This file contains the information regarding Preterite or Imperfect.
-

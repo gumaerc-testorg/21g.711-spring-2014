@@ -5,6 +5,7 @@ file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Advanced Spanish Conversation and Composition:  Batallas en el desierto 
 uid: 178d64f0-6e61-71df-3a87-9771cc6ded63
 ---
 This file contains the information regarding Batallas en el desierto.
-

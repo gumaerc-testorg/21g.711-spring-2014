@@ -6,6 +6,7 @@ file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Advanced Spanish Conversation and Composition: Electronic vigilance and 
 uid: fbe58a15-7293-45d5-d903-af4439872a6d
 ---
 This file contains the information regarding Electronic vigilance and clauses with “si”.
-

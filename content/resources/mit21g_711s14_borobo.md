@@ -5,6 +5,7 @@ file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Advanced Spanish Conversation and Composition: Boroboroo Subjunctive Exe
 uid: 4e793c6a-0594-4d6a-8198-fb19d6e50a62
 ---
 This file contains the information regarding Boroboroo Subjunctive Exercise.
-

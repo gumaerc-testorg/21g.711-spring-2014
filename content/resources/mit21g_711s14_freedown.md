@@ -6,6 +6,7 @@ file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Advanced Spanish Conversation and Composition: Free Downloads: A right o
 uid: f2302dd0-f867-c150-ef02-3eb76c27bb93
 ---
 This file contains the information regarding Free Downloads: A right or digital piracy?
-

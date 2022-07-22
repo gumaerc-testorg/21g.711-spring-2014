@@ -6,6 +6,7 @@ file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "La campa\xF1a por la madre tierra"
 uid: 86f1618d-bdf3-60c5-b644-5ad263341806
 ---
 This file contains information regarding La campaña por la madre tierra.
-
