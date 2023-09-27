@@ -42,8 +42,10 @@
     "website": "21g-711-advanced-spanish-conversation-and-composition-spring-2014"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "58236c8f-de5c-47dd-86e9-b40daf3c489b",
+  "site_uid": "586d257c-9880-469e-8a89-5b7c64eae157",
+  "site_short_id": "21g.711-spring-2014",
   "title": "Course Metadata"
 }
