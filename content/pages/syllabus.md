@@ -39,7 +39,7 @@ Novela corta: Pacheco, José Emilio. *Las batallas en el desierto*. Ediciones Er
 
 Libros de referencia recomendados:
 
-Iguina, Zulma, and Eleanor Dozier. *Manual de Gramática*. 5th ed. Cengage Learning, 2012. ISBN: 9781111836818. \[Preview with [Google Books](http://books.google.com/books?id=ct7-wUK5m1QC&pg=PAfrontcover)\]
+Iguina, Zulma, and Eleanor Dozier. *Manual de Gramática*. 5th ed. Cengage Learning, 2012. ISBN: 9781111836818. \[Preview with {{% resource_link "5210d47c-6939-46be-abb0-e00eec0c51bc" "Google Books" %}}\]
 
 *The Collins Spanish Dictionary*. 5th ed. Collins, 1997. ISBN: 9780004710235.
 
@@ -89,7 +89,7 @@ Por favor, el uso de computadoras e instrumentos electrónicos sólo para realiz
 
 #### Tareas de comunicación oral en Voicethread: 10%
 
-Los estudiantes deben completar oralmente las tareas asignadas usando la herramienta de conversación y presentación en línea, Voicethread. Las grabaciones en Voicethread se evaluarán según el contenido, la claridad al expresarse y la duración. ([Voicethread](http://voicethread.com/) is software the class used to record oral assignments and share them with each other.)
+Los estudiantes deben completar oralmente las tareas asignadas usando la herramienta de conversación y presentación en línea, Voicethread. Las grabaciones en Voicethread se evaluarán según el contenido, la claridad al expresarse y la duración. ({{% resource_link "74c3bb15-6b8a-4e76-8c67-c651f0508f40" "Voicethread" %}} is software the class used to record oral assignments and share them with each other.)
 
 #### Trabajos escritos: 25%
 
@@ -107,4 +107,4 @@ El tema para la investigación debe ser seleccionado antes de la mitad del semes
 
 ## Honestidad Académica
 
-Como estudiante en este curso se espera que completes tu propio trabajo, escribas tus propias tareas y cumplas con las normas de [Integridad Académica del MIT](http://integrity.mit.edu/).
+Como estudiante en este curso se espera que completes tu propio trabajo, escribas tus propias tareas y cumplas con las normas de {{% resource_link "6af06aa1-dca0-4711-a8e2-958902b19823" "Integridad Académica del MIT" %}}.
