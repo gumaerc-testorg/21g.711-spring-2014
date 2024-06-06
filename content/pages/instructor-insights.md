@@ -28,7 +28,7 @@ This class aimed to:
 
 ### Possibilities for Further Study/Careers
 
-The course was of special interest to students who were planning to pursue an internship in Spain or Latin America through the {{% resource_link "e692865f-9995-41ae-b373-d54c2a7ae539" "MIT International Science and Technology Initiative" %}} (MISTI), were applying to medical school, were interested in development issues, or were preparing to do field work in Latin America as part of their graduate studies research.
+The course was of special interest to students who were planning to pursue an internship in Spain or Latin America through the [MIT International Science and Technology Initiative](http://misti.mit.edu/) (MISTI), were applying to medical school, were interested in development issues, or were preparing to do field work in Latin America as part of their graduate studies research.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
