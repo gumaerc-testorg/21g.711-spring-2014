@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding Key for the correction of
   written work.
 file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/773fb1e5329a00c99650a8e882a3afb7_MIT21G_711S14_Correct_Key.pdf
+file_size: 199704
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
