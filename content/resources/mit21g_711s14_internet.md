@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Internet: Development Tool
   or Greater Inequality.'
-file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/5eeb1edc97df277e72c99e856eb6f2f5_MIT21G_711S14_Internet.pdf
+file: /ol-ocw-studio-app/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/5eeb1edc97df277e72c99e856eb6f2f5_MIT21G_711S14_Internet.pdf
 file_size: 233787
 file_type: application/pdf
 learning_resource_types:
