@@ -2,14 +2,13 @@
 content_type: page
 description: This section provides links to magazines on science and technology, podcasts,
   and webcasts in Spanish.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: d5e597db-fcb2-6239-8d38-6eef67286738
 ---
-
-Revistas sobre ciencia y tecnología
------------------------------------
+## Revistas sobre ciencia y tecnología
 
 [BBC en español](http://www.bbc.co.uk/mundo/temas/tecnologia/), noticias de ciencia y tecnología
 
@@ -23,7 +22,7 @@ Revistas sobre ciencia y tecnología
 
 [WASTE -revista de divulgación ambiental y científica](http://waste.ideal.es/Indice.html).
 
-[Tendencias 21, Revista electrónica de ciencia, tecnología, sociedad y cultura](http://www.tendencias21.net/index.php)
+[Tendencias 21, Revista electrónica de ciencia, tecnología, sociedad y cultura](https://tendencias21.levante-emv.com/)
 
 [Axxon](https://axxon.be/), noticias de ciencia, tecnología, etc. y [Axxon](https://axxon.be/), revista de ciencia ficción argentina
 
@@ -31,8 +30,7 @@ Revistas sobre ciencia y tecnología
 
 [ActionBioScience.org](http://www.actionbioscience.org/spanishdirectory.html#am), directorio de artículos en español
 
-Podcasts y Videocasts en español
---------------------------------
+## Podcasts y Videocasts en español
 
 [BBC Ciencia al día](http://news.bbc.co.uk/hi/spanish/programmes/newsid_4305000/4305868.stm), programa diario sobre novedades científicas y tecnológicas, ambiente y ecología, salud e informática
 
