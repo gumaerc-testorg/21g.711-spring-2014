@@ -20,7 +20,7 @@ TAREAS
 Introducción al curso
 {{< tdclose >}}{{< tdopen >}}
 
-- Noticias de Ultima hora. ¿Qué hay de nuevo en el mundo de la ciencia y tecnología? Imagina que eres el locutor del programa de **Noticias 711** y hoy vas a reportar sobre algunos de los últimos avances en el mundo de la ciencia y la tecnología! {{% resource_link d5e597db-fcb2-6239-8d38-6eef67286738 "Consulta algunos de los sitios con noticias sobre ciencia y tecnología" %}}, para informarte y grabar tu programa. (Recuerda presentarte, diciendo tu nombre y algo sobre ti. El propósito de estas grabaciones es que practiques tu expresión oral, por eso es preferible que no leas al grabar. Puedes hacer algunos apuntes para ayudarte a recordar puntos importantes, pero trata de no leer sino de ser natural al hablar y tratar de captar la atención de los que van a escucharte. No hay una cantidad de tiempo requerida para las grabaciones, pero idealmente debes tratar de hacerlas de 3 minutos como mínimo.
+- Noticias de Ultima hora. ¿Qué hay de nuevo en el mundo de la ciencia y tecnología? Imagina que eres el locutor del programa de **Noticias 711** y hoy vas a reportar sobre algunos de los últimos avances en el mundo de la ciencia y la tecnología! {{% resource_link "d5e597db-fcb2-6239-8d38-6eef67286738" "Consulta algunos de los sitios con noticias sobre ciencia y tecnología" %}}, para informarte y grabar tu programa. (Recuerda presentarte, diciendo tu nombre y algo sobre ti. El propósito de estas grabaciones es que practiques tu expresión oral, por eso es preferible que no leas al grabar. Puedes hacer algunos apuntes para ayudarte a recordar puntos importantes, pero trata de no leer sino de ser natural al hablar y tratar de captar la atención de los que van a escucharte. No hay una cantidad de tiempo requerida para las grabaciones, pero idealmente debes tratar de hacerlas de 3 minutos como mínimo.
 - En la segunda parte de tu programa debes nominar al que en tu opinión es el descubrimiento o invento más importante para la vida y el bienestar de la humanidad en general y explica por qué. ¿De qué manera ha impactado la vida humana? ¿Qué cosas eran imposibles o muy diferentes antes de ese invento?
 - Predicciones: Mira el reportaje en vídeo y predice algunas de los efectos positivos, negativos o imprevistos de estos avances.
 - Quizlet
@@ -56,17 +56,17 @@ Internet, adicciones y comunicación
 Comentario de lecturas: Nuevas tecnología y sus efectos en la relaciones sociales y de pareja
 {{< tdclose >}}{{< tdopen >}}
 
-- Prepararse para el debate:{{% resource_link f2302dd0-f867-c150-ef02-3eb76c27bb93 "Descarga Libre: ¿un derecho o piratería digital? (PDF)" %}}. Lee los siguientes artículos y graba tu opinión en **Voicethread**: ¿Intercambio de archivos o piratería digital? Para la actividad en clase debes venir preparado/a para defender a cualquiera de los lados de esta controversia.
+- Prepararse para el debate:{{% resource_link "f2302dd0-f867-c150-ef02-3eb76c27bb93" "Descarga Libre: ¿un derecho o piratería digital? (PDF)" %}}. Lee los siguientes artículos y graba tu opinión en **Voicethread**: ¿Intercambio de archivos o piratería digital? Para la actividad en clase debes venir preparado/a para defender a cualquiera de los lados de esta controversia.
 - Gramática: El artículo neutro "lo" y sus usos.
-- {{% resource_link 26b28c43-e703-397e-235d-5d51b90264e1 "Composición 1 (PDF)" %}}
+- {{% resource_link "26b28c43-e703-397e-235d-5d51b90264e1" "Composición 1 (PDF)" %}}
 
 **Ayudas:**
 
 - Para escribir acentos en la computadora (Windows o Mac) puedes consultar esta hoja: [Acentos y diacríticos](http://www.spanishnewyork.com/spanish-characters.html). Y si necesitas ayuda con las relgas de acentuación, consulta esta [Página de E. Yepes](http://www.bowdoin.edu/~eyepes/newgr/acent.htm) que tiene explicaciones y ejercicios con audio.
-- Antes de escribir y entregar tu composición estudia esta lista de {{% resource_link fdb58384-3fac-07a6-2b10-cf57dbaac3de "Errores comunes en español (PDF)" %}} para asegurarte de que **No** has cometido ninguno de ellos.
+- Antes de escribir y entregar tu composición estudia esta lista de {{% resource_link "fdb58384-3fac-07a6-2b10-cf57dbaac3de" "Errores comunes en español (PDF)" %}} para asegurarte de que **No** has cometido ninguno de ellos.
 - Esta es una lista con [Expresiones de transición](http://www.bowdoin.edu/~eyepes/newgr/estilo.htm) que te ayudarán a conectar mejor tus ideas.
-- Las composiciones serán evaluadas según estos {{% resource_link 6b1b0983-3e4d-7610-064f-1ec22e536674 "Criterios para la evaluación (PDF)" %}}.
-- Después de que tu profesora te devuelva la composición, debes revisarla usando esta {{% resource_link 773fb1e5-329a-00c9-9650-a8e882a3afb7 "Clave de corrección (PDF)" %}}.
+- Las composiciones serán evaluadas según estos {{% resource_link "6b1b0983-3e4d-7610-064f-1ec22e536674" "Criterios para la evaluación (PDF)" %}}.
+- Después de que tu profesora te devuelva la composición, debes revisarla usando esta {{% resource_link "773fb1e5-329a-00c9-9650-a8e882a3afb7" "Clave de corrección (PDF)" %}}.
 - Tienes **una semana** para devolver la composición revisada a tu profesora.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -92,7 +92,7 @@ Discusión sobre la película *Sleep Dealer*
 
 - Cuento: "Boroboboo", Marco Denevi, y responde a las preguntas al final del cuento para discutir en clase.
 - Artículo: "[La tecnología reemplazará a la mente: clase media en peligro](http://www.bbc.co.uk/mundo/noticias/2013/09/130924_tecnologia_remplaza_mente_finde)"
-- Gramática: Ejercicios subjuntivo: {{% resource_link 4e793c6a-0594-4d6a-8198-fb19d6e50a62 "Boroboboo (PDF)" %}}
+- Gramática: Ejercicios subjuntivo: {{% resource_link "4e793c6a-0594-4d6a-8198-fb19d6e50a62" "Boroboboo (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -100,7 +100,7 @@ Discusión sobre la película *Sleep Dealer*
 "Boroboboo", Marco Denevi
 {{< tdclose >}}{{< tdopen >}}
 
-- Artículos: {{% resource_link 5eeb1edc-97df-277e-72c9-9e856eb6f2f5 "Internet: ¿Herramienta de desarrollo o fuente de mayor desigualdad? (PDF)" %}}
+- Artículos: {{% resource_link "5eeb1edc-97df-277e-72c9-9e856eb6f2f5" "Internet: ¿Herramienta de desarrollo o fuente de mayor desigualdad? (PDF)" %}}
 - Vocabulario: Internet y desarrollo
 - Voicethread: Internet para Bolichimex
 
@@ -114,9 +114,9 @@ Discusión y debate
 
 {{< tdclose >}}{{< tdopen >}}
 
-- Gramática: Repaso del {{% resource_link 0d5c59f5-f4e0-dd25-10a7-d6160973db27 "pretérito e imperfecto (PDF)" %}}.
+- Gramática: Repaso del {{% resource_link "0d5c59f5-f4e0-dd25-10a7-d6160973db27" "pretérito e imperfecto (PDF)" %}}.
 - Vocabulario: Algunos cognados falsos
-- {{% resource_link 630f86fa-9592-9512-1152-9b5d32a22ea2 "Composición 2 (PDF)" %}} Incluye en tu composición el vocabulario que hemos visto en clase.
+- {{% resource_link "630f86fa-9592-9512-1152-9b5d32a22ea2" "Composición 2 (PDF)" %}} Incluye en tu composición el vocabulario que hemos visto en clase.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -136,7 +136,7 @@ Examen escrito 1
 
 - Novela: *Las batallas en el desierto*, José Emilio Pacheco. (Leer: Introducción y Capítulos 1–6).
 - Vocabulario: Vocabulario de la novela
-- {{% resource_link 178d64f0-6e61-71df-3a87-9771cc6ded63 "¿Qué visión del México de los años '40 nos presenta Pacheco en estos primeros capítulos? (PDF)" %}} Usa ejemplos concretos de la novela para escribir sobre 5 de las categorías en la hoja como mínimo.
+- {{% resource_link "178d64f0-6e61-71df-3a87-9771cc6ded63" "¿Qué visión del México de los años '40 nos presenta Pacheco en estos primeros capítulos? (PDF)" %}} Usa ejemplos concretos de la novela para escribir sobre 5 de las categorías en la hoja como mínimo.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -145,7 +145,7 @@ Examen escrito 1
 {{< tdclose >}}{{< tdopen >}}
 
 - Gramática: Repaso del estilo indirecto
-- {{% resource_link 891e879b-6fcb-6ed9-a570-daae591ffd1e "Práctica del estilo indirecto (PDF)" %}}
+- {{% resource_link "891e879b-6fcb-6ed9-a570-daae591ffd1e" "Práctica del estilo indirecto (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -158,7 +158,7 @@ Examen escrito 1
     - Lectura: Reascos, Nelson. "[Seguridad ciudadana y vídeo vigilancia](http://repositorio.flacsoandes.edu.ec/handle/10469/2315#.VZpQqvn-t2A)." *Ciudad Segura* 25 (2008).
 - Preparar debate: Beneficios y riesgos de la vigilacia electrónica.
 - Vocabulario: Vigilancia electrónica
-- Gramática: {{% resource_link fbe58a15-7293-45d5-d903-af4439872a6d "Vigilancia electrónica y cláusulas con \"si\" (PDF)" %}}
+- Gramática: {{% resource_link "fbe58a15-7293-45d5-d903-af4439872a6d" "Vigilancia electrónica y cláusulas con \"si\" (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -167,7 +167,7 @@ Discusión lecturas y debate
 {{< tdclose >}}{{< tdopen >}}
 
 - Lecturas y temas de debate::
-    - [Bebés de diseño y la reprogenética](http://www.actionbioscience.org/esp/biotecnologia/agar.html).
+    - Bebés de diseño y la reprogenética.
     - [¿Humanos o post-humanos?](http://www.lavanguardia.com/opinion/temas-de-debate/20130929/54388125935/humanos-o-posthumanos.html)
 - Cuento: "Nosotros, no", José Bernardo Adolph.
 - Vocabulario: Biotecnología
@@ -223,9 +223,9 @@ Entregar tema sobre el proyecto final.
 {{< tdclose >}}{{< tdopen >}}
 
 - Vocabulario: Medio ambiente
-- Preparar actividad: {{% resource_link 86f1618d-bdf3-60c5-b644-5ad263341806 "La campaña por la madre tierra (PDF)" %}}.
+- Preparar actividad: {{% resource_link "86f1618d-bdf3-60c5-b644-5ad263341806" "La campaña por la madre tierra (PDF)" %}}.
 - Voicethread: Tierra en peligro
-- {{% resource_link 4a54c42d-b7e8-4179-62fd-d1c6b62103cb "Composición 3 (PDF)" %}}
+- {{% resource_link "4a54c42d-b7e8-4179-62fd-d1c6b62103cb" "Composición 3 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -265,7 +265,7 @@ Discusión sobre la película *Hombres Armados*
 - Lecturas:
     - Alternativas al petróleo
     - "[Geoingeniería para enfriar el planeta y revertir el cambio climático](http://www.bbc.co.uk/mundo/noticias/2013/09/130925_ciencia_geoingenieria_tecnologias_para_revertir_cambio_climatico_np.shtml)"
-- {{% resource_link cb29ecab-a000-6e30-13bd-d768132cda2b "Composición 4 (PDF)" %}}
+- {{% resource_link "cb29ecab-a000-6e30-13bd-d768132cda2b" "Composición 4 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
