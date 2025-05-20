@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Common Errors in Spanish?
-file: /ol-ocw-studio-app/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/fdb583843fac07a62b10cf57dbaac3de_MIT21G_711S14_Comm_Errors.pdf
+file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/fdb583843fac07a62b10cf57dbaac3de_MIT21G_711S14_Comm_Errors.pdf
 file_size: 496338
 file_type: application/pdf
 learning_resource_types:
