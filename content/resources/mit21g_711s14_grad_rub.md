@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Grading Rubric.
-file: /ol-ocw-studio-app/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/deb9c86b327940096d6aa08500f76d09_MIT21G_711S14_Grad_Rub.pdf
+file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/deb9c86b327940096d6aa08500f76d09_MIT21G_711S14_Grad_Rub.pdf
 file_size: 262377
 file_type: application/pdf
 learning_resource_types: []
