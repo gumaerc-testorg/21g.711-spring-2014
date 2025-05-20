@@ -34,7 +34,7 @@ uid: d5e597db-fcb2-6239-8d38-6eef67286738
 
 [BBC Ciencia al día](http://news.bbc.co.uk/hi/spanish/programmes/newsid_4305000/4305868.stm), programa diario sobre novedades científicas y tecnológicas, ambiente y ecología, salud e informática
 
-[BBC Mundo Videos](https://www.bbc.com/mundo/video)
+[BBC Mundo Videos](https://www.youtube.com/BBCMundo)
 
 [Tierramérica](http://www.ipsnoticias.net/noticias/proyectos/tierramerica/)
 

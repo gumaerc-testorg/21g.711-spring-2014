@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Rubric for oral presentations.
-file: /ol-ocw-studio-app/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/df2d33fcb7a0e40b56ba63923d2c668f_MIT21G_711S14_Oral_pres.pdf
+file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/df2d33fcb7a0e40b56ba63923d2c668f_MIT21G_711S14_Oral_pres.pdf
 file_size: 190058
 file_type: application/pdf
 learning_resource_types: []
