@@ -28,8 +28,6 @@ uid: d5e597db-fcb2-6239-8d38-6eef67286738
 
 [Biodiversidad](http://www.grain.org/biodiversidad/)
 
-[ActionBioScience.org](http://www.actionbioscience.org/spanishdirectory.html#am), directorio de artículos en español
-
 ## Podcasts y Videocasts en español
 
 [BBC Ciencia al día](http://news.bbc.co.uk/hi/spanish/programmes/newsid_4305000/4305868.stm), programa diario sobre novedades científicas y tecnológicas, ambiente y ecología, salud e informática
