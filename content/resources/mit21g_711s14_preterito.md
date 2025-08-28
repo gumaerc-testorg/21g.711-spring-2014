@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Preterite or Imperfect.
-file: /courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/0d5c59f5f4e0dd2510a7d6160973db27_MIT21G_711S14_Preterito.pdf
+file: /ol-ocw-studio-app/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/0d5c59f5f4e0dd2510a7d6160973db27_MIT21G_711S14_Preterito.pdf
 file_size: 176513
 file_type: application/pdf
 learning_resource_types:
