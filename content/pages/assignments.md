@@ -33,10 +33,10 @@ Predicciones probables / improbables
 
 - Lecturas: Lee los siguientes artículos y resume sus ideas en dos o tres oraciones. Ven preparado / a para reportar sobre ellos en clase.
 - Nomofobia: Nueva enfermedad del siglo XXI. La nomofobia se identificó por primera vez en 2008 y su nombre proviene del término inglés "*no-mobile phobia*" (fobia a estar sin móvil).
-    - "[El principito y el native digital (capitulo perdido de El Principito)](http://24.media.tumblr.com/tumblr_m3org3iu631r5d9bqo1_1280.jpg)"
-    - deGuzman, Charlene, and Miles Crawford. "Olivdé mi teléfono." August 22, 2013. YouTube. Accessed October 7, 2014. [https://www.youtube.com/watch?v=OINa46HeWg8](https://www.youtube.com/watch?v=OINa46HeWg8)
-    - DTAC. "Desconectar para Conectar." October 12, 2012. YouTube. Accessed October 7, 2014. [https://www.youtube.com/watch?v=wf_dzUamjwg](https://www.youtube.com/watch?v=wf_dzUamjwg)
-    - [Tecno-adictos en España](http://www.elmundo.es/elmundosalud/2013/01/15/psiquiatriainfantil/1358277028.html). ¿Y tú, eres adicto al Internet, al chat, los vídeojuegos o al móvil? 
+    - "{{% resource_link "50091ba4-4b4d-4366-8af7-e6b483a424a0" "El principito y el native digital (capitulo perdido de El Principito)" %}}"
+    - deGuzman, Charlene, and Miles Crawford. "Olivdé mi teléfono." August 22, 2013. YouTube. Accessed October 7, 2014. {{% resource_link "2cb64f42-309e-4f59-be96-70d87b83a2ae" "https://www.youtube.com/watch?v=OINa46HeWg8" %}}
+    - DTAC. "Desconectar para Conectar." October 12, 2012. YouTube. Accessed October 7, 2014. {{% resource_link "733a87bf-4392-464f-b36b-90b0c6881b28" "https://www.youtube.com/watch?v=wf_dzUamjwg" %}}
+    - {{% resource_link "ec0e06bd-be09-4e63-89e6-ae5473700739" "Tecno-adictos en España" %}}. ¿Y tú, eres adicto al Internet, al chat, los vídeojuegos o al móvil? 
 - Voicethread: Graba en Voicethread tus reflexiones sobre el impacto de la Internet y las redes sociales en nuestras vidas.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -45,9 +45,9 @@ Predicciones probables / improbables
 Internet, adicciones y comunicación
 {{< tdclose >}}{{< tdopen >}}
 
-- [Cinco cosas que las redes sociales han cambiado en nuestra forma de relacionarnos](http://www.merca20.com/5-cosas-que-las-redes-sociales-han-cambiado-en-nuestra-forma-de-relacionarnos/).
-- [Amor en línea](http://www.bbc.co.uk/mundo/noticias/2011/08/110804_amor_en_linea_gel.shtml): De los métodos explicados en el artículo, hay alguno que te parezca mejor que otro? ¿Por qué? ¿Cuál usarías tú para encontrar a tu media naranja? ¿Propondrías algún otro método con un algoritmo diferente? Explica en qué estaría basado.
-- [Amor Cibernauta](http://diegomunozvalenzuela.blogspot.in/2005/08/un-cuento-amor-cibernauta-se.html), Diego Muñoz Valenzuela
+- {{% resource_link "096e4045-1949-4541-9367-3b95dc7408e5" "Cinco cosas que las redes sociales han cambiado en nuestra forma de relacionarnos" %}}.
+- {{% resource_link "3c547b61-7066-4e53-a518-b2d9dbc93ee5" "Amor en línea" %}}: De los métodos explicados en el artículo, hay alguno que te parezca mejor que otro? ¿Por qué? ¿Cuál usarías tú para encontrar a tu media naranja? ¿Propondrías algún otro método con un algoritmo diferente? Explica en qué estaría basado.
+- {{% resource_link "6d9023bb-574e-4845-bf9a-b21f06e4fcb4" "Amor Cibernauta" %}}, Diego Muñoz Valenzuela
 - Gramática: Repaso de Ser, Estar, Tener, Haber. Verbos como gustar.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -62,9 +62,9 @@ Comentario de lecturas: Nuevas tecnología y sus efectos en la relaciones social
 
 **Ayudas:**
 
-- Para escribir acentos en la computadora (Windows o Mac) puedes consultar esta hoja: [Acentos y diacríticos](http://www.spanishnewyork.com/spanish-characters.html). Y si necesitas ayuda con las relgas de acentuación, consulta esta [Página de E. Yepes](http://www.bowdoin.edu/~eyepes/newgr/acent.htm) que tiene explicaciones y ejercicios con audio.
+- Para escribir acentos en la computadora (Windows o Mac) puedes consultar esta hoja: {{% resource_link "d03adb8c-bf1e-48c9-9fc3-728560f3c44a" "Acentos y diacríticos" %}}. Y si necesitas ayuda con las relgas de acentuación, consulta esta {{% resource_link "689d8072-e060-4343-9cc8-14a204139ee9" "Página de E. Yepes" %}} que tiene explicaciones y ejercicios con audio.
 - Antes de escribir y entregar tu composición estudia esta lista de {{% resource_link "fdb58384-3fac-07a6-2b10-cf57dbaac3de" "Errores comunes en español (PDF)" %}} para asegurarte de que **No** has cometido ninguno de ellos.
-- Esta es una lista con [Expresiones de transición](http://www.bowdoin.edu/~eyepes/newgr/estilo.htm) que te ayudarán a conectar mejor tus ideas.
+- Esta es una lista con {{% resource_link "dc2c876b-6b83-4ecf-bc90-2f218eef4ff9" "Expresiones de transición" %}} que te ayudarán a conectar mejor tus ideas.
 - Las composiciones serán evaluadas según estos {{% resource_link "6b1b0983-3e4d-7610-064f-1ec22e536674" "Criterios para la evaluación (PDF)" %}}.
 - Después de que tu profesora te devuelva la composición, debes revisarla usando esta {{% resource_link "773fb1e5-329a-00c9-9650-a8e882a3afb7" "Clave de corrección (PDF)" %}}.
 - Tienes **una semana** para devolver la composición revisada a tu profesora.
@@ -79,7 +79,7 @@ Actividad: Descarga ilegal
 
 {{< tdclose >}}{{< tdopen >}}
 
-- Película: [*Sleep Dealer*](http://www.sleepdealer.com/) *(Traficante de sueños)*
+- Película: {{% resource_link "6f632151-32aa-4604-b7ba-4870a345b516" "*Sleep Dealer*" %}} *(Traficante de sueños)*
 - Vocabulario en Quizlet
 - Gramática: Repaso del subjuntivo
 - Voicethread: *Sleep Dealer*
@@ -91,7 +91,7 @@ Discusión sobre la película *Sleep Dealer*
 {{< tdclose >}}{{< tdopen >}}
 
 - Cuento: "Boroboboo", Marco Denevi, y responde a las preguntas al final del cuento para discutir en clase.
-- Artículo: "[La tecnología reemplazará a la mente: clase media en peligro](http://www.bbc.co.uk/mundo/noticias/2013/09/130924_tecnologia_remplaza_mente_finde)"
+- Artículo: "{{% resource_link "b73e15aa-6d31-495d-bed5-f823cdc757f3" "La tecnología reemplazará a la mente: clase media en peligro" %}}"
 - Gramática: Ejercicios subjuntivo: {{% resource_link "4e793c6a-0594-4d6a-8198-fb19d6e50a62" "Boroboboo (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -154,8 +154,8 @@ Examen escrito 1
 {{< tdclose >}}{{< tdopen >}}
 
 - Lecturas:
-    - Español 711. "Vídeo-vigilancia." January 7, 2014. YouTube. Accessed October 11, 2014. [https://www.youtube.com/watch?v=9NBOl2b-5zI&feature=youtu.be](https://www.youtube.com/watch?v=9NBOl2b-5zI&feature=youtu.be) Video-reportaje del programa 60 minutos de la cadena eitb.tv
-    - Lectura: Reascos, Nelson. "[Seguridad ciudadana y vídeo vigilancia](http://repositorio.flacsoandes.edu.ec/handle/10469/2315#.VZpQqvn-t2A)." *Ciudad Segura* 25 (2008).
+    - Español 711. "Vídeo-vigilancia." January 7, 2014. YouTube. Accessed October 11, 2014. {{% resource_link "f7ee48d7-67fc-48ba-aa65-fcf2fecb15c6" "https://www.youtube.com/watch?v=9NBOl2b-5zI&feature=youtu.be" %}} Video-reportaje del programa 60 minutos de la cadena eitb.tv
+    - Lectura: Reascos, Nelson. "{{% resource_link "8ec1cbf5-b29d-47bb-acde-bc6031f7c412" "Seguridad ciudadana y vídeo vigilancia" %}}." *Ciudad Segura* 25 (2008).
 - Preparar debate: Beneficios y riesgos de la vigilacia electrónica.
 - Vocabulario: Vigilancia electrónica
 - Gramática: {{% resource_link "fbe58a15-7293-45d5-d903-af4439872a6d" "Vigilancia electrónica y cláusulas con \"si\" (PDF)" %}}
@@ -168,7 +168,7 @@ Discusión lecturas y debate
 
 - Lecturas y temas de debate::
     - Bebés de diseño y la reprogenética.
-    - [¿Humanos o post-humanos?](http://www.lavanguardia.com/opinion/temas-de-debate/20130929/54388125935/humanos-o-posthumanos.html)
+    - {{% resource_link "7b2627c7-b3d0-4d82-a66d-323f3ff61ce9" "¿Humanos o post-humanos?" %}}
 - Cuento: "Nosotros, no", José Bernardo Adolph.
 - Vocabulario: Biotecnología
 - Voicethread: ¿Un futuro post-humano?
@@ -186,10 +186,10 @@ Discusión y debate sobre la manipulación genética.
 
 - Cuento: "Los dos reyes y los dos laberintos", Jorge Luis Borges.
 - Artículos: Lee los siguientes artículos sobre algunos adelantos en biología, genética y bio-ingeniería (o ingeniería-biomédica) y anota los efectos, las ventajas y las desventajas que ofrece cada uno no sólo para el individuo sino para la sociedad en general. ¿Crees que se le deberían poner restriccciones a la investigación o a la aplicación de algunos de ellos? ¿Por qué? Explica tus razones.
-    - "[¿Podemos reconstruir el cuerpo humano?](http://www.bbc.co.uk/mundo/noticias/2012/03/120320_cuerpo_humano_bionico.shtml)"
-    - "[Pastillas para ser inteligentes](http://www.bbc.co.uk/mundo/noticias/2011/11/111115_nootropico_drogas_inteligentes.shtml)"
-    - "[El dopaje genético](http://ecodiario.eleconomista.es/juegos-olimpicos/noticias/4131122/07/12/El-dopaje-en-los-genes-nueva-amenaza-del-deporte.html#.Kku8kXlMxoRN3j8)"
-    - "[Órganos humanos cultivados en cerdo ¿alternativa a la donación?](http://www.bbc.co.uk/mundo/noticias/2014/01/140103_japon_cerdos_organos_humanos_finde.shtml?ocid=socialflow_twitter_mundo)"
+    - "{{% resource_link "7eda16f0-3800-4e6a-9d95-4f3fcaed5869" "¿Podemos reconstruir el cuerpo humano?" %}}"
+    - "{{% resource_link "9177dda2-8bf0-4cda-8f95-cd3c5a3a601c" "Pastillas para ser inteligentes" %}}"
+    - "{{% resource_link "1b2f3781-034c-4bcf-b5e2-137eab0f736a" "El dopaje genético" %}}"
+    - "{{% resource_link "a15519dd-e170-4302-b0a2-440abdeef7d1" "Órganos humanos cultivados en cerdo ¿alternativa a la donación?" %}}"
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -207,8 +207,8 @@ Cuento: "Los Dos Reyes y Los Dos Laberintos", Jorge Luis Borges y debate sobre l
 Discusión sobre "*Abre Los Ojos*"
 {{< tdclose >}}{{< tdopen >}}
 
-- Lectura: "[Semillas esclavas: Los transgénicos a debate](http://www.rtve.es/noticias/20100617/semillas-esclavas-transgenicos-debate/336016.shtml)", reportaje de la RTVE, España.
-- "[¿Natural o modificado? El debate sobre los alimentos transgénicos](https://www.voyvengo.com.mx/revista/item/natural-o-modificado-el-debate-sobre-los-alimentos-transgenicos)."
+- Lectura: "{{% resource_link "69d4992c-d8ba-4829-b8f6-1801d19163a8" "Semillas esclavas: Los transgénicos a debate" %}}", reportaje de la RTVE, España.
+- "{{% resource_link "bcff4b9a-12bb-4d97-9022-0d42512bd503" "¿Natural o modificado? El debate sobre los alimentos transgénicos" %}}."
 - Vocabulario: Los Transgénicos
 - Voicethread: ¿Semillas transgénicas para Bolichimex?
 
@@ -233,7 +233,7 @@ Entregar tema sobre el proyecto final.
 Actividad: La campaña por la madre tierra.
 {{< tdclose >}}{{< tdopen >}}
 
-- Cuento: ["Baby, H. P." Juan José Arreola](https://ciudadseva.com/texto/baby-h-p/)
+- Cuento: {{% resource_link "4be5a971-d6f7-49a1-900c-4a8d3d37a7f2" "\"Baby, H. P.\" Juan José Arreola" %}}
 - Voicethread: Concurso energías sostenibles
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -242,8 +242,8 @@ Actividad: La campaña por la madre tierra.
 Resultados del concurso y "Baby, H. P." Juan José Arreola.
 {{< tdclose >}}{{< tdopen >}}
 
-- Preparar caso: [Debate sobre el proyecto Inambari](http://www.smithsonianmag.com/people-places/a-mega-dam-dilemma-in-the-amazon-270961/?no-ist).
-- [Hidroeléctrica del Inambrai nuevamente en agenda](http://www.losandes.com.pe/Sociedad/20140318/79061.html)
+- Preparar caso: {{% resource_link "c5f11267-95e2-4aa8-9740-11d5d19f8f24" "Debate sobre el proyecto Inambari" %}}.
+- {{% resource_link "0d93d0b3-a54d-47b5-a096-7daf122e8434" "Hidroeléctrica del Inambrai nuevamente en agenda" %}}
 - Voicethread: Central Inambari.
 - Gramática: Participios regulares e irregulares
 
@@ -253,7 +253,7 @@ Resultados del concurso y "Baby, H. P." Juan José Arreola.
 Actividad de simulación: Central hidroeléctrica Inambari.
 {{< tdclose >}}{{< tdopen >}}
 
-- Película: "[*Hombres armados*](http://www.imdb.com/title/tt0119657/)*.*"
+- Película: "{{% resource_link "511fdd37-fe45-479e-97bc-868bd34c3cf3" "*Hombres armados*" %}}*.*"
 - Voicethread: *Hombres Armados*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -264,7 +264,7 @@ Discusión sobre la película *Hombres Armados*
 
 - Lecturas:
     - Alternativas al petróleo
-    - "[Geoingeniería para enfriar el planeta y revertir el cambio climático](http://www.bbc.co.uk/mundo/noticias/2013/09/130925_ciencia_geoingenieria_tecnologias_para_revertir_cambio_climatico_np.shtml)"
+    - "{{% resource_link "657a2711-01cb-4da3-bca5-0d8827ddb429" "Geoingeniería para enfriar el planeta y revertir el cambio climático" %}}"
 - {{% resource_link "cb29ecab-a000-6e30-13bd-d768132cda2b" "Composición 4 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
